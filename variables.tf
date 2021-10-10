@@ -1,5 +1,5 @@
 variable "private_cluster_enabled" {
-  description = "Specifies whether a private cluster should be created"
+  description = "Specifies whether a private cluster should be created or not"
   type        = bool
   default     = false
 }
