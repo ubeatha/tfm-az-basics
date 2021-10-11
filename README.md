@@ -62,7 +62,6 @@ No modules.
 | <a name="output_group_dev_id"></a> [group\_dev\_id](#output\_group\_dev\_id) | n/a |
 | <a name="output_group_test_id"></a> [group\_test\_id](#output\_group\_test\_id) | n/a |
 | <a name="output_log_analytics_solution_id"></a> [log\_analytics\_solution\_id](#output\_log\_analytics\_solution\_id) | n/a |
-| <a name="output_log_analytics_solution_name"></a> [log\_analytics\_solution\_name](#output\_log\_analytics\_solution\_name) | n/a |
 | <a name="output_log_analytics_workspace_id"></a> [log\_analytics\_workspace\_id](#output\_log\_analytics\_workspace\_id) | n/a |
 | <a name="output_log_analytics_workspace_name"></a> [log\_analytics\_workspace\_name](#output\_log\_analytics\_workspace\_name) | n/a |
 | <a name="output_resource_group_id"></a> [resource\_group\_id](#output\_resource\_group\_id) | n/a |
