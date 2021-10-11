@@ -22,10 +22,6 @@ output "log_analytics_workspace_id" {
   value = azurerm_log_analytics_workspace.my.id
 }
 
-output "log_analytics_solution_name" {
-  value = azurerm_log_analytics_solution.my.name
-}
-
 output "log_analytics_solution_id" {
   value = azurerm_log_analytics_solution.my.id
 }
