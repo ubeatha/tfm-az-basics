@@ -56,6 +56,17 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_group_admin_id"></a> [group\_admin\_id](#output\_group\_admin\_id) | n/a |
+| <a name="output_group_dev_id"></a> [group\_dev\_id](#output\_group\_dev\_id) | n/a |
+| <a name="output_group_test_id"></a> [group\_test\_id](#output\_group\_test\_id) | n/a |
+| <a name="output_log_analytics_solution_id"></a> [log\_analytics\_solution\_id](#output\_log\_analytics\_solution\_id) | n/a |
+| <a name="output_log_analytics_workspace_id"></a> [log\_analytics\_workspace\_id](#output\_log\_analytics\_workspace\_id) | n/a |
+| <a name="output_log_analytics_workspace_name"></a> [log\_analytics\_workspace\_name](#output\_log\_analytics\_workspace\_name) | n/a |
+| <a name="output_resource_group_id"></a> [resource\_group\_id](#output\_resource\_group\_id) | n/a |
+| <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | n/a |
+| <a name="output_storage_account_id"></a> [storage\_account\_id](#output\_storage\_account\_id) | n/a |
+| <a name="output_storage_account_name"></a> [storage\_account\_name](#output\_storage\_account\_name) | n/a |
 
 <!--- END_TF_DOCS --->
