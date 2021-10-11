@@ -14,6 +14,7 @@
 
 | Name | Version |
 |------|---------|
+| <a name="provider_azuread"></a> [azuread](#provider\_azuread) | >=2.0.0 |
 | <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | = 2.78.0 |
 | <a name="provider_random"></a> [random](#provider\_random) | >= 3.0.0 |
 
@@ -25,6 +26,9 @@ No modules.
 
 | Name | Type |
 |------|------|
+| [azuread_group.admin](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs/resources/group) | resource |
+| [azuread_group.dev](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs/resources/group) | resource |
+| [azuread_group.test](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs/resources/group) | resource |
 | [azurerm_log_analytics_solution.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/resources/log_analytics_solution) | resource |
 | [azurerm_log_analytics_workspace.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/resources/log_analytics_workspace) | resource |
 | [azurerm_network_ddos_protection_plan.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/resources/network_ddos_protection_plan) | resource |
