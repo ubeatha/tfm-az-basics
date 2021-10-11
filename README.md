@@ -37,6 +37,7 @@ No modules.
 | [azurerm_subnet.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/resources/subnet) | resource |
 | [azurerm_virtual_network.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/resources/virtual_network) | resource |
 | [random_string.my](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/string) | resource |
+| [azuread_client_config.current](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs/data-sources/client_config) | data source |
 | [azurerm_client_config.my](https://registry.terraform.io/providers/hashicorp/azurerm/2.78.0/docs/data-sources/client_config) | data source |
 
 ## Inputs
