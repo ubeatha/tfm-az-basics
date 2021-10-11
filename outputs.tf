@@ -27,13 +27,13 @@ output "log_analytics_solution_id" {
 }
 
 output "group_admin_id" {
-  value = azuread_group.admin.object_id 
+  value = azuread_group.admin.object_id
 }
 
 output "group_dev_id" {
-  value = azuread_group.dev.object_id 
+  value = azuread_group.dev.object_id
 }
 
 output "group_test_id" {
-  value = azuread_group.test.object_id 
+  value = azuread_group.test.object_id
 }
