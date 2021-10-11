@@ -89,6 +89,9 @@ resource "azurerm_log_analytics_solution" "my" {
   tags = local.tags
 }
 
+// Get Azure AD info on existing account
+data "azuread_client_config" "current" {}
+
 // Create Azure Active Directory groups
 
 resource "azuread_group" "admin" {
